@@ -4,7 +4,7 @@
 \
 ⚠ 서버를 설정하는 과제이므로 최소한의 서비스만 설치(GUI  설치 금지!; X.org 또는 기타 그래픽 서버를 설치 금지) \
 \
-latest stable of `Debian` 또는 latest stable of `CentOS` 선택 (시스템 관리가 처음이라면 Debian 추천) \
+latest stable of `Debian` 또는 latest stable of `CentOS` 선택 (시스템 관리가 처음이라면 Debian 추천) [🔹CentOS와 Debian 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot)\
 \
 ℹ `CentOS` 설정은 복잡하기 때문에 `KDump`를 설정할 필요가 없음. `SELinux` 필수 (구성은 프로젝트의 요구 사항에 맞게), `AppArmor` for Debian 필수 \
 \
