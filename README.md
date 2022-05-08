@@ -1,6 +1,6 @@
 # Born2beroot
 \
-`VirtualBox` (또는 VirtualBox르 사용할 수 없을 경우 UTM) 설치 \
+`VirtualBox` (또는 VirtualBox르 사용할 수 없을 경우 UTM) 설치 [🔹VirtualBox와 UTM 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot)\
 \
 ⚠ 서버를 설정하는 과제이므로 최소한의 서비스만 설치(GUI  설치 금지!; X.org 또는 기타 그래픽 서버를 설치 금지) \
 \
