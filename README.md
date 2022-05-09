@@ -6,7 +6,7 @@
 \
 latest stable of `Debian` 또는 latest stable of `CentOS` 선택 (시스템 관리가 처음이라면 Debian 추천) [🔹CentOS와 Debian 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot)\
 \
-ℹ `CentOS` 설정은 복잡하기 때문에 `KDump`를 설정할 필요가 없음. `SELinux` 필수 (구성은 프로젝트의 요구 사항에 맞게), `AppArmor` for Debian 필수 \
+ℹ `CentOS` 설정은 복잡하기 때문에 `KDump`를 설정할 필요가 없음. `SELinux` 필수 (구성은 프로젝트의 요구 사항에 맞게), `AppArmor` for Debian 필수 [🔹SELinux와 AppArmor 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot접근-통제)\
 \
 `LVM`을 사용해 최소한 2개의 암호화된 파티션을 만들어야 함 \
 \
