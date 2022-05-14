@@ -6,13 +6,13 @@
 \
 latest stable of `Debian` 또는 latest stable of `CentOS` 선택 (시스템 관리가 처음이라면 Debian 추천) [🔹CentOS와 Debian 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot)\
 \
-ℹ `CentOS` 설정은 복잡하기 때문에 `KDump`를 설정할 필요가 없음. `SELinux` 필수 (구성은 프로젝트의 요구 사항에 맞게), `AppArmor` for Debian 필수 [🔹SELinux와 AppArmor 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot접근-통제)\
+ℹ `CentOS` 설정은 복잡하기 때문에 `KDump`를 설정할 필요가 없음. `SELinux` 필수 (구성은 프로젝트의 요구 사항에 맞게), `AppArmor` for Debian 필수 
 \
 `LVM`을 사용해 최소한 2개의 암호화된 파티션을 만들어야 함 \
 \
 ℹ 내가 선택하 운영체제나, 뭘 사용하고 있는 지 알아야 함!
-+ Q1 : the differences between `aptitude` and `apt`
-+ Q2 : what `SELinux` or `AppArmor` is
++ Q1 : the differences between `aptitude` and `apt` [🔹패키 관리자 aptitude와 apt 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot개념완성하기)
++ Q2 : what `SELinux` or `AppArmor` is [🔹SELinux와 AppArmor 알아보기](https://velog.io/@pearpearb/42서울-Born2beroot접근-통제)
 
 `SSH` service port : `4242` only! 보안 이유로, root로 SSH 연결 금지! \
 \
