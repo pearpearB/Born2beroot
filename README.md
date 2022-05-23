@@ -42,7 +42,7 @@ latest stable of `Debian` 또는 latest stable of `CentOS` 선택 (시스템 관
 
 ⚠ configuration files 설정 후, 루트 계정을 포함한 가상 머신에 있는 모든 비밀번호를 바꿔야 함.\
 \
-sudo 그룹에 대한 강력한 configuration을 설정하기 위해, 지켜야 할 요구사항:
+sudo 그룹에 대한 강력한 configuration을 설정하기 위해, 지켜야 할 요구사항: [🔹sudo와 TTY 알아보기](https://velog.io/@pearpearb/42서울-Born2berootSudo와-TTY)
 
 + sudo를 이용한 인증은 비밀번호가 올바르지 않은 경우 3번으로 제한함.(비밀번호 틀림 3번까지 허용)
 + sudo를 이용할 때, 잘못된 비밀번호로 에러 발생시 사용자 지정 메세지(사용자 마음대로) 표시되어 함.
